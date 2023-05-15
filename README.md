@@ -1,3 +1,3 @@
-## Final proyect (unfinished) for the JavaScript course.
+## Final proyect (unfinished) for the JavaScript project.
 
 By abgarat
