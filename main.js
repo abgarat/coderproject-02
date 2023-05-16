@@ -11,10 +11,10 @@ function agregarProductos(cantidad){
 }
 
 function definirCantProd(){
-    let n = Number(prompt('Ingrese la cantidad de productos que desea agregar al sitio:'));
+    let n = Number(prompt('Ingrese la cantidad de productos distintos que desea agregar al sitio:'));
     while(isNaN(n)){
         alert('Ingrese la cantidad escrita en números.');
-        n = Number(prompt('Ingrese la cantidad de productos que desea agregar al sitio:'));
+        n = Number(prompt('Ingrese la cantidad de productos distintos que desea agregar al sitio:'));
     }
     return n;
 }
