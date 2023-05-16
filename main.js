@@ -1,4 +1,3 @@
-// INGRESAR PRODUCTOS
 function agregarProductos(cantidad){
     for(let i = cantidad; i > 0; i--){
         let productoNombre = prompt('Ingrese el nombre del producto:');
